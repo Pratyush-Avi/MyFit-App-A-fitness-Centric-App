@@ -50,7 +50,10 @@ MYFIT App is based on a fitness app. This app is based on fitness and exercises 
     
   ![image](https://user-images.githubusercontent.com/75266216/114741772-bc862680-9d68-11eb-8ab7-974d872f0d6c.png)  ![image](https://user-images.githubusercontent.com/75266216/114741794-c1e37100-9d68-11eb-9176-f6a2eafc19e1.png)
 
-    
+
+## License
+
+Distributed under the MIT License. See LICENSE for more information.
     
 
 
