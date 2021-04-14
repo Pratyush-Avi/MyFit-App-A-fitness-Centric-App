@@ -6,13 +6,8 @@ The MyFit app has been developed keeping fitness as center foci. It complements 
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
-      <a href="#introduction">Introduction</a>
-      <ul>
-        <li><a href="#screenshots">Home Screen and other major screens Snap:</a></li>
-		<li><a href="#how-to-backup--restore-your-workouts">How To Backup & Restore Your Workouts</a></li>
-      </ul>
-    </li>
-    <li><a href="#roadmap">Roadmap</a></li>
+      <a href="#introduction">Introduction</a></li>
+    <li><a href="#home screen and other major screens snap:">Home Screen and other major screens Snap:</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
   </ol>
