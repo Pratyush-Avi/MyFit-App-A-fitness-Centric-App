@@ -28,13 +28,13 @@ MYFIT App is based on a fitness app. This app is based on fitness and exercises 
 ## Function
 
 Workout Timer: Exercise Timer is a highly customised interval timer used globally for interval training and HIIT Training. This workout timer makes it easier than ever to create custom workout routines. Use it as your stopwatch or plan timer.
- ![image](https://user-images.githubusercontent.com/75266216/114741387-59948f80-9d68-11eb-9d5e-112012e80c51.png)
 
-
+![image](https://user-images.githubusercontent.com/75266216/114741387-59948f80-9d68-11eb-9d5e-112012e80c51.png)
 
 Profile Creation: are page that helps business in creating profiles. It helps businesses in increasing our reach, presence, online visibility. Profile creation is also considered as one of the best off-page activities that gives instant results.
 
- 
+
+
 Calorie Calculator: is used to estimate the number of calories a person needs to consume each day. This calculator can also provide some simpler guidelines for gaining or losing weight by adding user weight and height and age to which according to the BMI the result will be declared on the screen for user to take measure and track their calorie with help of Calorie Tracker.
  
 
