@@ -8,7 +8,7 @@ The MyFit app has been developed keeping fitness as center foci. It complements 
     <li>
       <a href="#introduction">Introduction</a></li>
     <li><a href="#home-screen-and-other-major-screens-snap">Home Screen and other major screens Snap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#function">Function</a></li>
     <li><a href="#license">License</a></li>
   </ol>
 </details>
