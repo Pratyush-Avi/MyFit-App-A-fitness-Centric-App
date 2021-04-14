@@ -1,6 +1,24 @@
 # MyFit-App-A-fitness-Centric-App
 The MyFit app has been developed keeping fitness as center foci. It complements a fitness regime to incubate a positive attitude towards exercise and general well-being. The aim of this project is to promote a healthy lifestyle, exercise and generate awareness. To facilitate this, our app provides numerous features. We designed the application to facilitate the users to be able to keep fit/achieve their weight goals using portable devices such as smart phones.
 
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <ol>
+    <li>
+      <a href="#introduction">Introduction</a>
+      <ul>
+        <li><a href="#screenshots">Home Screen and other major screens Snap:</a></li>
+		<li><a href="#how-to-backup--restore-your-workouts">How To Backup & Restore Your Workouts</a></li>
+      </ul>
+    </li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+  </ol>
+</details>
+
+
 
 ## Introduction:
 
@@ -10,6 +28,8 @@ MYFIT App is based on a fitness app. This app is based on fitness and exercises 
 ## Home Screen and other major screens Snap:
 
 ![image](https://user-images.githubusercontent.com/75266216/114706042-188b8380-9d46-11eb-896c-5aa02b93d468.png) ![image](https://user-images.githubusercontent.com/75266216/114706115-35c05200-9d46-11eb-92c7-709fa09783d7.png)  ![image](https://user-images.githubusercontent.com/75266216/114706148-407ae700-9d46-11eb-8bb9-e441db6b1dc2.png)  ![image](https://user-images.githubusercontent.com/75266216/114706180-496bb880-9d46-11eb-83dd-ca5abac18d69.png)  ![image](https://user-images.githubusercontent.com/75266216/114706212-512b5d00-9d46-11eb-87f2-caa99906383c.png)  
+
+
 
 
 
