@@ -1,0 +1,2 @@
+# MyFit-App-A-fitness-Centric-App
+The MyFit app has been developed keeping fitness as center foci. It complements a fitness regime to incubate a positive attitude towards exercise and general well-being. The aim of this project is to promote a healthy lifestyle, exercise and generate awareness. To facilitate this, our app provides numerous features. We designed the application to facilitate the users to be able to keep fit/achieve their weight goals using portable devices such as smart phones.
