@@ -9,7 +9,7 @@ MYFIT App is based on a fitness app. This app is based on fitness and exercises 
 
 ## Home Screen and other major screens Snap:
 
-![image](https://user-images.githubusercontent.com/75266216/114706042-188b8380-9d46-11eb-896c-5aa02b93d468.png) ![image](https://user-images.githubusercontent.com/75266216/114706115-35c05200-9d46-11eb-92c7-709fa09783d7.png)  ![image](https://user-images.githubusercontent.com/75266216/114706148-407ae700-9d46-11eb-8bb9-e441db6b1dc2.png)  ![image](https://user-images.githubusercontent.com/75266216/114706180-496bb880-9d46-11eb-83dd-ca5abac18d69.png)  ![image](https://user-images.githubusercontent.com/75266216/114706212-512b5d00-9d46-11eb-87f2-caa99906383c.png)  ![image](https://user-images.githubusercontent.com/75266216/114706332-715b1c00-9d46-11eb-84f5-62564a7ddfa8.png)
+![image](https://user-images.githubusercontent.com/75266216/114706042-188b8380-9d46-11eb-896c-5aa02b93d468.png) ![image](https://user-images.githubusercontent.com/75266216/114706115-35c05200-9d46-11eb-92c7-709fa09783d7.png)  ![image](https://user-images.githubusercontent.com/75266216/114706148-407ae700-9d46-11eb-8bb9-e441db6b1dc2.png)  ![image](https://user-images.githubusercontent.com/75266216/114706180-496bb880-9d46-11eb-83dd-ca5abac18d69.png)  ![image](https://user-images.githubusercontent.com/75266216/114706212-512b5d00-9d46-11eb-87f2-caa99906383c.png)  
 
 
 
