@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyFit</string>
+
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="workout_timer">Workout Timer</string>
+    <string name="profile_creation">Profile Creation</string>
+    <string name="calorie_calculator">Calorie Calculator</string>
+    <string name="calorie_tracker">Calorie Tracker</string>
+    <string name="training_splits">Training Splits</string>
+    <string name="_60">60</string>
+    <string name="calories_taken">Calories Taken = 0 KCAL</string>
+    <string name="calories">Calories</string>
+    <string name="kcal">KCAL</string>
+    <string name="reset">RESET</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="enter_height_in_cm">Enter Height (in cm)</string>
+    <string name="enter_weight_in_kg">Enter weight (in kg)</string>
+    <string name="enter_gender">Enter Gender</string>
+
+
+    <array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Prefer not to Say</item>
+    </array>
+</resources>

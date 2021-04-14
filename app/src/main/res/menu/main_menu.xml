@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/nav_timer"
+            android:title="@string/workout_timer" />
+        <item
+            android:id="@+id/nav_profile"
+            android:title="@string/profile_creation" />
+        <item
+            android:id="@+id/nav_calc"
+            android:title="@string/calorie_calculator" />
+        <item
+            android:id="@+id/nav_tracker"
+            android:title="@string/calorie_tracker" />
+        <item
+            android:id="@+id/nav_splits"
+            android:title="@string/training_splits" />
+</menu>
