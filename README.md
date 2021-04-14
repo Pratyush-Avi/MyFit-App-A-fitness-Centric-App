@@ -29,26 +29,26 @@ MYFIT App is based on a fitness app. This app is based on fitness and exercises 
 
 * Workout Timer: Exercise Timer is a highly customised interval timer used globally for interval training and HIIT Training. This workout timer makes it easier than ever to create custom workout routines. Use it as your stopwatch or plan timer.
 
- ![image](https://user-images.githubusercontent.com/75266216/114741387-59948f80-9d68-11eb-9d5e-112012e80c51.png)
+  ![image](https://user-images.githubusercontent.com/75266216/114741387-59948f80-9d68-11eb-9d5e-112012e80c51.png)
 
 * Profile Creation: are page that helps business in creating profiles. It helps businesses in increasing our reach, presence, online visibility. Profile creation is also considered as one of the best off-page activities that gives instant results.
 
- ![image](https://user-images.githubusercontent.com/75266216/114741619-919bd280-9d68-11eb-8d72-70c12c6281eb.png)
+   ![image](https://user-images.githubusercontent.com/75266216/114741619-919bd280-9d68-11eb-8d72-70c12c6281eb.png)
 
 
 * Calorie Calculator: is used to estimate the number of calories a person needs to consume each day. This calculator can also provide some simpler guidelines for gaining or losing weight by adding user weight and height and age to which according to the BMI the result will be declared on the screen for user to take measure and track their calorie with help of Calorie Tracker.
  
- ![image](https://user-images.githubusercontent.com/75266216/114741652-995b7700-9d68-11eb-8946-8982df4e3bc1.png)
+   ![image](https://user-images.githubusercontent.com/75266216/114741652-995b7700-9d68-11eb-8946-8982df4e3bc1.png)
 
 
 * Calorie Tracker: are counter and nutrient trackers are incredibly useful if we are trying to lose, maintain or even gain weight. They can also help you make specific recommendation to our diet, such as eating more protein or fewer carbs. However there is no need to track intake constantly but it is available for those who are little bit more fitness freaks.
  
- ![image](https://user-images.githubusercontent.com/75266216/114741718-ad9f7400-9d68-11eb-8152-cb76fc8cc9d9.png)
+   ![image](https://user-images.githubusercontent.com/75266216/114741718-ad9f7400-9d68-11eb-8152-cb76fc8cc9d9.png)
 
 
 * Training Splits: Splits system training is a program of weight training that divides training sessions by body region- usually upper and lower body training. Rarely split systems divide training into each of these regions. Focussing on the legs and butt in one session and arms, back, chest in another session is more common. Over here different days are allotted for training or there is a training program where person can follow weekly exercises according to his or her mood. 
     
-![image](https://user-images.githubusercontent.com/75266216/114741772-bc862680-9d68-11eb-8ab7-974d872f0d6c.png)  ![image](https://user-images.githubusercontent.com/75266216/114741794-c1e37100-9d68-11eb-9176-f6a2eafc19e1.png)
+  ![image](https://user-images.githubusercontent.com/75266216/114741772-bc862680-9d68-11eb-8ab7-974d872f0d6c.png)  ![image](https://user-images.githubusercontent.com/75266216/114741794-c1e37100-9d68-11eb-9176-f6a2eafc19e1.png)
 
     
     
